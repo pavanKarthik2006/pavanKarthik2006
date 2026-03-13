@@ -1,4 +1,4 @@
-# pavanKarthik2006-
+# pavanKarthik2006
 ---
 
 ## 📊 GitHub Stats
