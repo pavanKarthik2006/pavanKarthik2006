@@ -16,7 +16,7 @@ pavan = {
                     "Diploma in Data Science @ IIT Madras"],
     "interests"  : ["Biomedical NLP", "Genomics", "Deep Learning for Healthcare",
                     "Disease Network Analysis", "Computational Drug Discovery"],
-    "currently"  : "Extending GPT-Researcher for automated disease map curation (GSoC 2025)",
+    "currently"  : "Exploring RAG systems and biomedical AI applications",
     "looking_for": "Research collaborations at the bio–ML intersection"
 }
 ```
@@ -56,12 +56,23 @@ Combined gene expression data with PPI networks to identify biologically meaning
 </td>
 <td width="50%">
 
-### 🗺️ GPT-Researcher × Disease Maps *(GSoC 2025)*
-Extending GPT-Researcher with INDRA/EMMAA retrieval and BioBERT entity grounding to auto-generate disease map curation reports.
+### 🤖 Virtual TA — RAG-Powered Course Assistant
+An AI teaching assistant that answers student questions grounded in course material using Retrieval-Augmented Generation. Served via a FastAPI backend with a Streamlit UI.
 
-`GPT-Researcher` `INDRA` `SBML` `Python`
+`OpenAI API` `RAG` `FastAPI` `Streamlit`
 
 </td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 Sales Data Analytics
+Exploratory analysis, forecasting, and customer segmentation using statistical and machine learning methods on real-world sales datasets.
+
+`Pandas` `Scikit-learn` `Matplotlib` `Seaborn`
+
+</td>
+<td width="50%"></td>
 </tr>
 </table>
 
@@ -92,7 +103,8 @@ Extending GPT-Researcher with INDRA/EMMAA retrieval and BioBERT entity grounding
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
 
