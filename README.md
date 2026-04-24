@@ -65,6 +65,14 @@ An AI teaching assistant that answers student questions grounded in course mater
 </tr>
 <tr>
 <td width="50%">
+<td width="50%">
+
+### 🦠 Genomic Phylogenetic Reconstruction of SARS-CoV-2
+Automated computational pipeline for phylogenetic reconstruction of SARS-CoV-2 strains — sequence retrieval, alignment, and tree inference to trace variant evolution.
+
+`BioPython` `MUSCLE/MAFFT` `IQ-TREE` `Phylogenetics` `NCBI`
+
+</td>
 
 ### 📊 Sales Data Analytics
 Exploratory analysis, forecasting, and customer segmentation using statistical and machine learning methods on real-world sales datasets.
