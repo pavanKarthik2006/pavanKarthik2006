@@ -74,6 +74,17 @@ Exploratory analysis, forecasting, and customer segmentation using statistical a
 </td>
 <td width="50%"></td>
 </tr>
+<tr>
+<td width="50%">
+
+### 🧬 In Silico Aspirin–Mpro Binding Analysis
+Molecular docking of Aspirin against SARS-CoV-2 Main Protease (PDB: 9O6F S113A mutant) using AutoDock Vina. Best binding affinity: **−4.916 kcal/mol**. Cavity and pose analysis performed in UCSF ChimeraX.
+
+`AutoDock Vina` `UCSF ChimeraX` `Open Babel` `Computational Drug Discovery`
+
+</td>
+<td width="50%"></td>
+</tr>
 </table>
 
 ---
